@@ -1,0 +1,23 @@
+# Archivos temporales y de compilación
+*.class
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Carpetas de construcción
+build/
+dist/
+out/
+target/
+
+# Configuración privada de NetBeans o JME SDK
+nbproject/private/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Librerías externas (si usas un lib/ personalizado que se puede regenerar)
+libs/
